@@ -1,4 +1,4 @@
-# React Native mini oefeningen
+# React Native basics
 
 Maak deze oefeningen in een nieuw Expo project. De oefeningen dienen om zowel React Native te leren kennen als een indicatie van jouw React niveau.
 
