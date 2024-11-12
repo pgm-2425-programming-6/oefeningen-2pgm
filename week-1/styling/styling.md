@@ -6,7 +6,7 @@ De assets kan je [hier](assets/assets.zip) downloaden.
 ## Opzet
 
 * Maak een nieuw React Native project (met Expo). 
-* Gebruik volgende kleuren: #fc5c65,  ##4ECDC4, #ffe66d
+* Gebruik volgende kleuren: `#fc5c65`,  `#4ECDC4`, `#ffe66d`
 * Kies een font van Google Fonts en gebruik dit
 
 ## Schermen

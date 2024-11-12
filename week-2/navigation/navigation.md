@@ -11,8 +11,8 @@ Zorg voor een tab navigatie met:
 - Settings
 
 ### ListingsScreen
-Zorg voor een knop in ListingsScreen (je kiest zelf waar).
-Bij het klikken op deze knop open je de AddListingScreen.
+Zorg voor een knop in `ListingsScreen` (je kiest zelf waar).
+Bij het klikken op deze knop open je de `AddListingScreen`.
 
 ### AddListingScreen
 Na het klikken op de knop in het formulier sluit je dit scherm terug
@@ -22,11 +22,11 @@ We bouwen een simpele authenticatie.
 
 Toon eerst het WelcomeScreen.
 Na klikken op de Login knop:
-- Sla je dit op ahv useContext
+- Sla je dit op ahv `useContext`
 - Toon je (op basis van de context) het scherm met de tabs
 
 Na klikken op Logout (in AccountScreen):
-- Sla je dit op ahv useContext
+- Sla je dit op ahv `useContext`
 - Toon je (op basis van de context) het WelcomeScreen
 
 ## Super advanced
