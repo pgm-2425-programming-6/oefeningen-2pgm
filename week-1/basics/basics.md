@@ -1,6 +1,6 @@
 # React Native basics
 
-Maak deze oefeningen in een nieuw Expo project. De oefeningen dienen om zowel React Native te leren kennen als een indicatie van jouw React niveau.
+Maak deze oefeningen in een nieuw Expo project (kies voor `bare (TypeScript)`). De oefeningen dienen om zowel React Native te leren kennen als een indicatie van jouw React niveau.
 
 Voor elke oefening maak je een component in een apart bestand, bv.
 

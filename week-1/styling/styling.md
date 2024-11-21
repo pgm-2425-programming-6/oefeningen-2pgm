@@ -11,7 +11,7 @@ De assets kan je [hier](assets/assets.zip) downloaden.
 
 ## Schermen
 
-Maak volgende schermen na. Voor elk scherm maak je een component in de `screens` folder.
+Maak volgende schermen na. Zorg dat ze aan elkaar gelinkt zijn via een navigatie.
 De assets kan je hierboven downloaden.
 
 Probeer zoveel mogelijk gebruik te maken van componenten.
@@ -22,10 +22,31 @@ De onderste knoppen zijn een Login en Register knop, geef deze ook tekst.
 ![Styling](images/styling-1.png)
 
 ### ListingScreen
+Zorg voor een knop in dit scherm (je kiest zelf waar).
+Bij het klikken op deze knop open je de `AddListingScreen`.
 ![Styling](images/styling-2.png)
 
 ### AccountScreen
 ![Styling](images/styling-3.png)
 
 ### AddListingScreen
+
+Na het klikken op de knop in het formulier sluit je dit scherm terug
 ![Styling](images/styling-4.png)
+
+
+## Advanced
+We bouwen een simpele authenticatie.
+
+Toon eerst het WelcomeScreen.
+Na klikken op de Login knop:
+- Sla je dit op ahv `useContext`
+- Toon je (op basis van de context) het scherm met de tabs
+
+Na klikken op Logout (in AccountScreen):
+- Sla je dit op ahv `useContext`
+- Toon je (op basis van de context) het WelcomeScreen
+
+## Super advanced
+- Hou de status (ingelogd / uitgelogd) bij via `AsyncStorage`
+- Maak een LoginScherm waarbij je inlogt met een username. Deze toon je eenmaal ingelogd in de AccountScreen
