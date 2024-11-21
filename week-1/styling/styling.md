@@ -11,20 +11,21 @@ De assets kan je [hier](assets/assets.zip) downloaden.
 
 ## Schermen
 
-Maak volgende schermen na. Zorg dat ze aan elkaar gelinkt zijn via een navigatie.
+Maak volgende schermen na. Zorg dat ze aan elkaar gelinkt zijn via een navigatie (tabs, deze staan niet op de screenshots)
 De assets kan je hierboven downloaden.
 
 Probeer zoveel mogelijk gebruik te maken van componenten.
 
 ### WelcomeScreen
-De onderste knoppen zijn een Login en Register knop, geef deze ook tekst.
-
 ![Styling](images/styling-1.png)
 
+De onderste knoppen zijn een Login en Register knop, geef deze ook tekst.
+
 ### ListingScreen
+![Styling](images/styling-2.png)
+
 Zorg voor een knop in dit scherm (je kiest zelf waar).
 Bij het klikken op deze knop open je de `AddListingScreen`.
-![Styling](images/styling-2.png)
 
 ### AccountScreen
 ![Styling](images/styling-3.png)
